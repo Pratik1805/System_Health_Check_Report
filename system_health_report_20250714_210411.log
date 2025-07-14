@@ -1,0 +1,45 @@
+#####################################
+     SYSTEM HEALTH CHECK REPORT
+     Generated on : 2025-07-14 21:04:12
+#####################################
+
+OS NAME: Ubuntu 24.04.2 LTS
+
+UPTIME: up 1 hour, 9 minutes
+
+IP ADDRESS: 127.0.1.1
+
+DISK USAGE:
+  Total Size of Disk: 1007G
+  Available Size:     954G
+  Percentage Used:    1%
+
+CPU USAGE:
+  User CPU Usage (Apps):     0.0
+  System CPU Usage (Kernel): 0.0
+  Idle (Free CPU%):          100.0
+
+TOTAL NUMBER OF PROCESS RUNNING: 37
+
+Total NUMBER OF ROOT PROCESS RUNNING: 20
+
+Top 5 MEMORY CONSUMING PROCESS: 
+  UID     PID    PPID CMD                         %MEM
+    0     206       1 /sbin/agetty -o -p -- \u --  0.0
+    0     192       1 /sbin/agetty -o -p -- \u --  0.0
+    0     550       2 /bin/login -f                0.0
+ 1000     683     550  \_ -bash HOME=/home/pratik  0.0
+ 1000    2641    2635 -bash HOSTTYPE=x86_64 LANG=  0.0
+
+Top 5 CPU CONSUMING PROCESS: 
+  UID     PID    PPID CMD                         %CPU
+    0     550       2 /bin/login -f                0.0
+ 1000     683     550  \_ -bash HOME=/home/pratik  0.0
+    0     206       1 /sbin/agetty -o -p -- \u --  0.0
+    0     192       1 /sbin/agetty -o -p -- \u --  0.0
+ 1000     555     551 -bash HOSTTYPE=x86_64 LANG=  0.0
+
+#####################################
+            END OF REPORT
+#####################################
+
