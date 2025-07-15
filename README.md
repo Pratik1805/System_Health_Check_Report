@@ -57,6 +57,6 @@ This script generates a comprehensive **System Health Report** in both **plain t
 ## 👨‍💻 Author
 
 - **Pratik Pandey**
-- 📅 Script written on: `8th July 2025`
+
 
 ---
